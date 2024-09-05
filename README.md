@@ -16,12 +16,7 @@ This repository contains the code for a deep learning-based **ASV (Automatic Spe
 1. [Installation](#installation)
 2. [Dataset Preparation](#dataset-preparation)
 3. [Usage](#usage)
-4. [Training](#training)
-5. [Testing](#testing)
-6. [Model Architecture](#model-architecture)
-7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
+4. [Citing](#Citing)
 
 ## Installation
 
@@ -75,6 +70,9 @@ Most configurations such as the number of epochs, learning rate, and batch size 
 
 ```bash
 python main.py --batch-size 64 --epochs 32 --lr 0.0001 --gpu 0 --out_fold ./models/
+
+
+
 
 ## Citing:
 
